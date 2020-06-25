@@ -1,0 +1,26 @@
+{
+  "name": "monotone",
+  "displayName": "monotone",
+  "publisher": "ConsoleTVs",
+  "description": "Monotone theme for vscode",
+  "version": "0.1.0",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ConsoleTVs/Monotone.git"
+  }
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monotone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-color-theme.json"
+      }
+    ]
+  }
+}
