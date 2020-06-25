@@ -163,7 +163,8 @@
         "variable.other.object",
         "variable.other",
         "punctuation.definition.variable.php",
-        "support.class"
+        "support.class",
+        "support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#FBD38D"
