@@ -186,7 +186,7 @@
         "comment.block support.class"
       ],
       "settings": {
-        "foreground": "#2E2E37"
+        "foreground": "#383842" // #2E2E37
       }
     },
     {
@@ -238,7 +238,7 @@
         "punctuation.separator.key-value"
       ],
       "settings": {
-        "fontStyle": "bold"
+        // "fontStyle": "bold"
       }
     },
     {
@@ -283,7 +283,7 @@
       ],
       "settings": {
         "foreground": "#A8A8B1",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
