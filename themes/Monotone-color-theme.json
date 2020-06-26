@@ -147,7 +147,11 @@
         "variable.other.property",
         "variable.other.object.property",
         "meta.objectliteral punctuation.definition.block",
-        "punctuation.definition.string"
+        "punctuation.definition.string",
+        "support.type.property-name.css",
+        "keyword.control.at-rule.apply",
+        "punctuation.definition.keyword",
+        "keyword.control.at-rule.import.css"
       ],
       "settings": {
         "foreground": "#FFFFFF"
@@ -167,7 +171,8 @@
         "variable.parameter",
         "punctuation.definition.variable.php",
         "support.class",
-        "support.type.property-name.json"
+        "support.type.property-name.json",
+        "entity.other.attribute-name.class.css"
       ],
       "settings": {
         "foreground": "#FBD38D"
@@ -199,7 +204,9 @@
         "keyword.operator.logical",
         "meta.brace.round",
         "keyword.operator.type.annotation",
-        "keyword.operator.spread"
+        "keyword.operator.spread",
+        "support.constant.property-value.css",
+        "support.constant.font-name.css"
       ],
       "settings": {
         "foreground": "#A8A8B1"
