@@ -144,7 +144,8 @@
     {
       "name": "Props",
       "scope": [
-        "variable.other.property.php",
+        "variable.other.property",
+        "variable.other.object.property",
         "meta.objectliteral punctuation.definition.block",
         "punctuation.definition.string"
       ],
@@ -157,11 +158,13 @@
       "scope": [
         "entity.other.alias",
         "entity.other.inherited-class",
-        "entity.name.type.class",
+        "entity.name.type",
         "variable.language.this",
         "entity.name.tag",
         "variable.other.object",
+        "variable.object.property",
         "variable.other",
+        "variable.parameter",
         "punctuation.definition.variable.php",
         "support.class",
         "support.type.property-name.json"
@@ -188,7 +191,15 @@
         "keyword.operator.assignment",
         "punctuation.definition",
         "keyword.operator.class",
-        "keyword.operator.key"
+        "keyword.operator.key",
+        "support.type",
+        "meta.type.annotation entity.name.type",
+        "meta.return.type entity.name.type",
+        "keyword.operator.optional",
+        "keyword.operator.logical",
+        "meta.brace.round",
+        "keyword.operator.type.annotation",
+        "keyword.operator.spread"
       ],
       "settings": {
         "foreground": "#A8A8B1"
@@ -258,7 +269,10 @@
         "storage.type.string.python",
         "storage.type.ts",
         "storage.type.php",
-        "keyword.other.use-as"
+        "keyword.other.use-as",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.in"
       ],
       "settings": {
         "foreground": "#A8A8B1",
