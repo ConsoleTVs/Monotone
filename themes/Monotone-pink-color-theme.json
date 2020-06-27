@@ -1,5 +1,5 @@
 {
-  "name": "Monotone",
+  "name": "Monotone Red",
   "type": "dark",
   "colors": {
     "activityBar.background": "#000000",
@@ -186,7 +186,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#F6AD55"
+        "foreground": "#F687B3"
       }
     },
     {

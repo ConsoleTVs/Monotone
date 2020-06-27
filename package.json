@@ -20,6 +20,46 @@
         "label": "Monotone",
         "uiTheme": "vs-dark",
         "path": "./themes/Monotone-color-theme.json"
+      },
+      {
+        "label": "Monotone Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-red-color-theme.json"
+      },
+      {
+        "label": "Monotone Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-green-color-theme.json"
+      },
+      {
+        "label": "Monotone Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-blue-color-theme.json"
+      },
+      {
+        "label": "Monotone Indigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-indigo-color-theme.json"
+      },
+      {
+        "label": "Monotone Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-purple-color-theme.json"
+      },
+      {
+        "label": "Monotone Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-pink-color-theme.json"
+      },
+      {
+        "label": "Monotone Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-yellow-color-theme.json"
+      },
+      {
+        "label": "Monotone Teal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monotone-teal-color-theme.json"
       }
     ]
   }
